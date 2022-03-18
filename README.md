@@ -1,11 +1,11 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=WELCOME+TO+NIYAMWOL.;CREATED+BY+NASIF+ANSHID;)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sJCpf2j.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/8lSlNhI.jpeg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR)
   <div align="center">
        
   </div>
@@ -117,7 +117,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/princerudh)
+  [![`NIYAMWOL.jpg`]?size=200)](https://github.com/princerudh)
 
 [`Prince Rudh`](https://github.com/princerudh)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
