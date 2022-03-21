@@ -66,7 +66,7 @@ module.exports = {
     RUDHRA_AI: process.env.RUDHRA_AI === undefined ? 'false' : process.env.RUDHRA_AI,
     ALIVEBUTTON: process.env.ALIVEBUTTON === undefined ? 'ʜᴇʟʟᴏ ʙʀᴏ' : process.env.ALIVEBUTTON,
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ʜɪ ᴅᴜᴅᴇ' : process.env.ALIVE_BUTTON,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/e6991117d2fc06b26b507.jpg' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/8lSlNhI.jpeg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? '☚⃟፝༄𝙽𝙸𝚈𝙰𝙼𝚆𝙾𝙻☚⃟፝࿐' : process.env.LOGO_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     NU: process.env.NUMBER === undefined ? false : process.env.NUMBER,
