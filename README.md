@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Nasif40">Nasif40</a> to make it p
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AnshidBot/NIYA-MWOL?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nasif40/Niyamwol-v1)
      </div>
